@@ -1,5 +1,13 @@
 # Clientprueba2309
 
+Nota: Tener instalado NODEJS and @angular/cli
+
+1.- Descargar o clonar repositorio.
+
+2.- Ubicarse en la raiz del proyecto.
+
+3.- ng serve para iniciar el proyecto.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.8.
 
 ## Development server
